@@ -1,0 +1,18 @@
+.title{
+	background-color:#000;
+	padding:20px 20px;
+	color:#fff;
+	font-weight:bold;
+}
+
+h1,h2{
+	margin:0;
+	font-weight:normal;
+}
+h1{
+	margin-bottom:16px;
+}
+
+app-todo , app-add-todo{
+	border-bottom:1px solid rad;
+}
